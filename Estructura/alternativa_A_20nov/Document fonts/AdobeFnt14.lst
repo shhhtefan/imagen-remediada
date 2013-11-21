@@ -1,0 +1,105 @@
+%!Adobe-FontList 1.14
+%Locale:0x340a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Consolas
+FamilyName:Consolas
+StyleName:Regular
+FullName:Consolas
+MenuName:Consolas
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Russo\Dropbox\Titulo\Libro\alternativa A\Document fonts\CONSOLA.TTF
+DataFormat:sfntData
+FileLength:358256
+FileModTime:1244670205
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Consolas-Bold
+FamilyName:Consolas
+StyleName:Bold
+FullName:Consolas Bold
+MenuName:Consolas
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Russo\Dropbox\Titulo\Libro\alternativa A\Document fonts\CONSOLAB.TTF
+DataFormat:sfntData
+FileLength:368520
+FileModTime:1244670205
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DINPro-Bold
+FamilyName:DINPro
+StyleName:Bold
+FullName:DINPro-Bold
+MenuName:DINPro-Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Russo\Dropbox\Titulo\Libro\alternativa A\Document fonts\DINPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:90228
+FileModTime:1246360108
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DINPro-Regular
+FamilyName:DINPro
+StyleName:Regular
+FullName:DINPro-Regular
+MenuName:DINPro-Regular
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Russo\Dropbox\Titulo\Libro\alternativa A\Document fonts\DINPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:87364
+FileModTime:1246360110
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Russo\Dropbox\Titulo\Libro\alternativa A\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217280
+FileModTime:1329322520
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+

@@ -1,0 +1,6 @@
+<SettingsEntry Unit="pt">
+  <CropMarks On="false" Length="14" Outset="6" Weight="0.25" InnerMarksOn="false"/>
+  <RegMarks On="false" InnerRadius="3" OuterRadius="5" OutLength="6" AlongLength="6" Weight="0.25"/>
+  <ColorBars GrayBarOn="false" ColorBarOn="false" CellSize="14" StrokeWeight="0.6"/>
+  <DocInfo On="false" PointSize="5"/>
+</SettingsEntry>

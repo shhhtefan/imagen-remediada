@@ -1,0 +1,8 @@
+<SettingsEntry viewUnits="in" impositionType="SaddleStitch" sheetsPerSignature="1" twoSided="true" outputSpreadOrder="InterleavedFrontsAndBacks">
+  <Source width="576" height="792"/>
+  <Layout nCols="2" nRows="1"/>
+  <Margin left="0" right="0" top="0" bottom="0"/>
+  <Spacing horizontal="0" vertical="0"/>
+  <Sheet/>
+  <Shift outer="0" inner="0"/>
+</SettingsEntry>
