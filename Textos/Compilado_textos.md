@@ -1,38 +1,16 @@
 Índice
 ======
+###### 1.1 Manifiesto
 
-### 1.1 Manifiesto
+###### 1.2 Introducción
 
+###### 1.3 Sujetos de prueba
 
+###### 2.1 Programa
 
-### 1.2 Introducción
+###### 2.2 Deconstrucción
 
-
-
-### 1.3 Sujetos de prueba
-
-#### 1.3.1 Bachelet
-
-#### 1.3.2 Matthei
-
-#### 1.3.3 Soltera Otra Vez
-
-
-
-### 2.1 Programa
-
-###### 2.1.1 Español
-
-
-
-### 2.2 Deconstrucción
-
-
-
-### 2.3 Observaciones
-
-
-
+###### 2.3 Observaciones
 
 
 1.1 Manifiesto
@@ -151,8 +129,7 @@ la segunda candidata más votada con 25,01%.
 
 ### Soltera otra vez
 
-Teleserie nocturna de Canal 13 cuya primera temporada fue estrenada en mayo de
-2012. Ha gozado de la suficiente popularidad para tener una segunda temporada,
+Teleserie nocturna de Canal 13 cuya primera temporada fue estrenada en mayo de 2012. Ha gozado de la suficiente popularidad para tener una segunda temporada,
 la cual comenzó a emitirse en julio de 2013. La segunda temporada sigue los
 sucesos ocurridos en la primera temporada, donde Cristina, la protagonista,
 comenzó una búsqueda por perder su estado de soltería.
@@ -212,8 +189,7 @@ la secuencia, el proceso se da por completado.
 2.2 Deconstrucción
 ==================
 
-De todos los métodos para descomponer una imagen, este cuaderno solo se preocupa
-de estudiar las imágenes en términos de color. Como estudio de color, las
+De todos los métodos para descomponer una imagen, este cuaderno solo se preocupa de estudiar las imágenes en términos de color. Como estudio de color, las
 siguientes páginas dividen las imágenes seleccionadas anteriormente en 4 tipos:
 Una paleta de color basada en la imagen original, matiz, saturación y
 luminosidad. Esto nace a partir de un modelo específico de clasificar el color,
@@ -232,12 +208,11 @@ aspecto del estudio se preocupa únicamente de observar las imágenes con la
 teoría de color como base y presenta observaciones concisas y objetivas. Su
 contraparte es una interpretación subjetiva de las imágenes que toma prestados
 los conceptos de la teoría de color en su dimensión retórica. Matiz, saturación
-y luminosidad toman un doble sentido en tanto aspecto del color como adjetivo de
-algún elemento de las imágenes.
+y luminosidad toman un doble sentido en tanto aspecto del color como adjetivo de algún elemento de las imágenes.
 
 
 
 2.3 Observaciones
 =================
 
-(Pasando en limpio las anotaciones)
+(En proceso)
