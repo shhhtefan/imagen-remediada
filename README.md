@@ -19,11 +19,7 @@ libro/cuaderno se produce en \*InDesign\*
 
 
 
-![][]
+![Licencia Creative Commons](http://i.creativecommons.org/l/by-nc/3.0/88x31.png)
 
 Este obra está bajo una [Licencia Creative Commons Atribución-NoComercial
-3.0Unported][].
-
-[]: http://i.creativecommons.org/l/by-nc/3.0/88x31.png   [Licencia Creative
-Commons Atribución-NoComercial 3.0Unported]:
-http://creativecommons.org/licenses/by-nc/3.0/deed.es
+3.0Unported](http://creativecommons.org/licenses/by-nc/3.0/deed.es).
