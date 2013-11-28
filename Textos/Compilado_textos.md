@@ -29,11 +29,11 @@ Criterios de selección:
 
 3.  Razon de la presencia de "Soltera Otra Vez"
 
-####### 1.3.1 Bachelet
+###### 1.3.1 Bachelet
 
 1.  Reseña de su campaña
 
-####### 1.3.2 Matthei
+###### 1.3.2 Matthei
 
 1.  Reseña de su campaña
 
