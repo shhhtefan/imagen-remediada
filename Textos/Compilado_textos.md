@@ -314,7 +314,7 @@ como un porcentaje comprendido entre 0% (negro) y 100% (blanco).
 
 ### Matiz:
 
-|**Matíz**    | **(B) **| **(M) **| **(S) **|
+| Matíz			| (B) 	   | (M)	  | (S)      |
 |---------------|----------|----------|----------|
 | Azul          | 13       | 06       | 09       |
 | Rojo          | 03       | 04       | 05       |
