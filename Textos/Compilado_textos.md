@@ -67,7 +67,6 @@ Criterios de selección:
     brillo, pero en su dimensión retórica.
 
 
-
 1.1 Manifiesto
 ==============
 
