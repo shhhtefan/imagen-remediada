@@ -1,9 +1,7 @@
 Índice y contenidos clave
--------------------------
+=========================
 
-
-
-### 1.1 Manifiesto
+##### 1.1 Manifiesto
 
 1.  La tecnología condiciona la forma en que percibimos nuestro mundo
 
@@ -11,79 +9,47 @@
 
 3.  Re-mediación
 
+##### 1.2 Introducción
 
+1.  De qué trata el libro
 
-### 1.2 Introducción
+2.  Por qué es importante publicar un libro sobre aquello
 
-1.  La representación en las imágenes
+3.  Estructura del libro
 
-    1.  La imagen visual y la imagen mental
+4.  A quien/es va dirigido
 
-    2.  Tensión entre representación análoga y representación artística/de autor
+##### 1.3 Sujetos de prueba
 
-2.  La deconstrucción de una imagen
+1. Contingencia
 
-3.  Herramientas:
+2. Presentar campañas políticas y razón de la elección de las candidatas
 
-    1.  Diseño generativo
+3. Razon de la presencia de "Soltera Otra Vez"
 
-    2.  Código
+    ###### 1.3.1 Bachelet
 
-4.  Preguntas:
+    1.  Reseña de su campañas
 
-    1.  ¿Se mantiene el discurso?
+    ###### 1.3.2 Matthei
 
-    2.  ¿Qué pasa con las nuevas imágenes?
+    1.  Reseña de su campaña
 
+    ###### 1.3.3 Soltera Otra Vez
 
+    1.  Reseña de la teleserie
 
-### 1.3 Sujetos de prueba
-
-Criterios de selección:
-
-1.  Contingencia
-
-2.  Presentar campañas políticas y razón de la elección de las candidatas
-
-3.  Criterios de selección de las imágenes
-
-
-
-#### 1.3.1 Bachelet
-
-1.  Reseña de su campaña
-
-
-
-#### 1.3.2 Matthei
-
-1.  Reseña de su campaña
-
-
-
-#### 1.3.3 Soltera Otra Vez
-
-1.  Reseña de la teleserie
-
-2.  Razones de su selección
-
-
-
-### 2.1 Programa
+##### 2.1 Programa
 
 1.  Presentar processing
 
 2.  El código como herramienta de condicionamiento
 
+	###### 2.1.1 Español
 
+	1.  Programa traducido al español
 
-#### 2.1.1 Español
-
-1.  Programa de processing en prosa
-
-
-
-### 2.2 Deconstrucción
+##### 2.2 Deconstrucción
 
 1.  Explicar qué se hizo con el programa
 
@@ -91,13 +57,9 @@ Criterios de selección:
 
 3.  Modo de estudio
 
-
-
-### 2.3 Observaciones
+##### 2.3 Observaciones
 
 1.  Objetivas: Comparativa de color en términos de matiz, saturación y brillo
 
 2.  Subjetivas: Interpretaciones personales en términos de matiz, saturación y
     brillo, pero en su dimensión retórica.
-
-

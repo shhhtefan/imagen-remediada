@@ -1,5 +1,8 @@
+Observaciones
+=============
+
 Observaciones (cuantitativas)
----
+-----------------------------
 
 Nota: Vale la pena recordar que estas observaciones aplican únicamente a:
 
@@ -36,7 +39,7 @@ como un porcentaje comprendido entre 0% (negro) y 100% (blanco).
 
 ### Matiz:
 
-|**Matíz**    | **(B) **| **(M) **| **(S) **|
+|**Matíz**    	| **(B) ** | **(M) ** | **(S) ** |
 |---------------|----------|----------|----------|
 | Azul          | 13       | 06       | 09       |
 | Rojo          | 03       | 04       | 05       |
@@ -57,8 +60,6 @@ fueron producidas, si se debe al contenido visual, o ambas. Con la excepción de
 las imágenes producidas para *Facebook*, casi todas las imágenes de (M)
 comparten al menos una de las tres propiedades del color con (S).
 
-
-
 ### Saturación:
 
 | Fuente | Veces con la im agen más saturada |
@@ -66,6 +67,7 @@ comparten al menos una de las tres propiedades del color con (S).
 | (B)    | 03                                |
 | (M)    | 03                                |
 | (S)    | 08                                |
+
 
 ### Brillo:
 
@@ -76,11 +78,8 @@ comparten al menos una de las tres propiedades del color con (S).
 | (S)    | 05                               |
 
 
-
-
-
 Observaciones (cualitativas)
----
+----------------------------
 
 ### Definiciones (R.A.E.)
 
