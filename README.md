@@ -1,6 +1,6 @@
-# imagen(remediada);
+# imagen(re-mediada);
 
-Repositorio para el proceso de producción del libro *imagen(remediada);* (nombre provisorio).
+Repositorio para el proceso de producción del libro *imagen(re-mediada);*.
 
 Este libro/cuaderno es un ejercicio de deconstrucción y reconstrucción de las campañas presidenciales de Michelle Bachelet y Evelyn Matthei. Se descomponen imágenes al punto de hacer casi irreconocible su discurso original y, a partir de ello, se configuran nuevas interpretaciones.
 
