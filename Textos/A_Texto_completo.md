@@ -15,10 +15,10 @@
 
 1.1 Manifiesto (βeta)
 ==================
-01. __La tecnología condiciona nuestra forma de percibir el entorno__.  
+01. __La tecnología condiciona nuestra forma de percibir el entorno__  
 La actividad humana está subordinada a la tecnología y no al revés. De forma voluntaria o involuntaria, dejamos que influya en nuestra percepción de la realidad. Existen otras maneras de entender el mundo, pero para bien o para mal, esta es la dominante.
 
-02. __Las imágenes están mediadas directa o indirectamente por la tecnología__.  
+02. __Las imágenes están mediadas directa o indirectamente por la tecnología__  
 Donde pongamos nuestra vista, las imágenes están condicionadas; la pantalla es nuestra ventana al mundo, los paisajes son artificiales, los números son nuestras guías.
 
 
@@ -28,9 +28,10 @@ El cuaderno que sostiene entre sus manos es un ejercicio de deconstrucción de l
 
 Se utilizan dos herramientas para este proceso: diseño generativo y código computacional. El diseño generativo es una metodología relativamente nueva utilizada en disciplinas diversas como diseño, arquitectura y ciencias de computación. A diferencia de otras metodologías, el diseño generativo se enfoca principalmente en los procesos emergentes y en la exploración de posibilidades. Las definiciones de esta metodología están fuertemente relacionadas con la computación, por lo que muchas veces se emplea un lenguaje de programación (o código) para crear los procesos. Para efectos de este libro se utilizó un lenguaje enfocado en disciplinas visuales, conocido como _Processing_.
 >Nota: En este cuaderno, código computacional hace referencia a un lenguaje de programación y suele usarse como sinónimo del concepto de _software_; el _software_ es código.
->Nota: Para saber más sobre _Processing_, hay una breve introducción en la sección 2.1.
 
-Un ejercicio de este tipo no está limitado a estas herramientas y podría prescindir de ellas sin complicaciones. Sin embargo, estas presentan un potencial para disciplinas visuales como el diseño gráfico, particularmente porque el diseño generativo propone un cambio de paradigma[citar GD]: dejar de depender exclusivamente de las _cajas negras_, es decir, herramientas gráficas pre-construidas y hacerse cargo del proceso mismo de creación de imágenes; nos invita a condicionar el proceso generativo.
+>Nota: Para saber más sobre _Processing_, se ofrece una breve introducción en la sección "_Software_".
+
+Un ejercicio de este tipo no está limitado a estas herramientas y podría prescindir de ellas sin complicaciones. Sin embargo estas presentan un potencial para disciplinas visuales como el diseño gráfico, particularmente porque el diseño generativo propone un cambio de paradigma[citar GD]: dejar de depender exclusivamente de las _cajas negras_, es decir, herramientas gráficas pre-construidas y hacerse cargo del proceso mismo de creación de imágenes; nos invita a condicionar el proceso generativo.
 
 > Nota: El diseño generativo no nos obliga a usar exclusivamente lenguajes de programación. Grupos como _Conditional Design_, por ejemplo, codifican sus procesos haciendo uso de elementos análogos: pintura, lápices, personas. El diseño generativo no elimina herramientas tradicionales como Adobe Photoshop, más bien presenta una guía de acciones perfectamente compatibles con este tipo de _software_ u otras formas de producción visual.
 
